@@ -29,8 +29,7 @@ public class UserBuilder {
     }
 
     public User build() {
-        // TODO
-        // create and return new User object
+        // TODO: create and return new User object
         return null;
     }
 }
